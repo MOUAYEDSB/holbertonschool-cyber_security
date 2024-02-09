@@ -1,6 +1,6 @@
 # Linux Security Basics
 
-<img src="image/readme.png" alt="Description of the image">
+<img src="0x00_introduction_cybersecurity//image/readme.png" alt="Description of the image">
 ## Introduction
 This project aims to provide foundational knowledge and best practices for securing Linux systems. It covers essential aspects of Linux security to help users safeguard their systems against potential threats.
 
